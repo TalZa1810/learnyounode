@@ -1,3 +1,1 @@
-/**
- * Created by talza on 02/05/2017.
- */
+console.log(process.argv.reduce((prev, curr, currIndex) => (currIndex < 2) ? 0 : prev + (curr | 0)));
