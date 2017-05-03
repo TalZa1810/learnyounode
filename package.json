@@ -1,0 +1,25 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "learn you node workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TalZa90/learnyounode.git"
+  },
+  "author": "Tal Zaidman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TalZa90/learnyounode/issues"
+  },
+  "homepage": "https://github.com/TalZa90/learnyounode#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1"
+  }
+}
