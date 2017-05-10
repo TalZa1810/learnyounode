@@ -8,3 +8,4 @@ function onReject(error) {
 }
 
 promise.then(console.log, onReject);
+
